@@ -1,0 +1,8 @@
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\bin\Debug\WebHelloWorld.Tests.dll.config
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\bin\Debug\WebHelloWorld.Tests.dll
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\bin\Debug\WebHelloWorld.Tests.pdb
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\bin\Debug\WebHelloWorld.dll
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\bin\Debug\WebHelloWorld.pdb
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\obj\Debug\WebHelloWorld.Tests.csprojResolveAssemblyReference.cache
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\obj\Debug\WebHelloWorld.Tests.dll
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld.Tests\obj\Debug\WebHelloWorld.Tests.pdb

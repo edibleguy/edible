@@ -1,0 +1,5 @@
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld\bin\WebHelloWorld.dll
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld\bin\WebHelloWorld.pdb
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld\obj\Debug\WebHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld\obj\Debug\WebHelloWorld.dll
+c:\users\v-marlee\documents\visual studio 2010\Projects\WebHelloWorld\WebHelloWorld\obj\Debug\WebHelloWorld.pdb
